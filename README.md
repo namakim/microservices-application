@@ -11,3 +11,13 @@ Project Components:
 - Centralized Logging
 - Circuit Breaker
 - Secure Microservices using KeyCloak
+
+Product Service: Create and view products, acts as Products Catalog
+
+Order Service: Orders products
+
+Inventory Service: Check if product is in stock or now
+
+Notification Service: Sends notifications after order is placed
+
+Above services will interact with each other, via syncronous and asynchronous communication
