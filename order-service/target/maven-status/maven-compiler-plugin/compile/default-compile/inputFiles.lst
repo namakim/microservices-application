@@ -1,0 +1,8 @@
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/model/Order.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/repository/OrderRepository.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/model/OrderLineItems.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/dto/OrderLineItemsDto.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/dto/OrderRequest.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/controller/OrderController.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/OrderServiceApplication.java
+/Users/nakoulmakim/Documents/Portfolio/IntelliJ/microservices-application/order-service/src/main/java/com/nakoulmakim/orderservice/service/OrderService.java

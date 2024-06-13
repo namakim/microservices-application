@@ -1,0 +1,8 @@
+com/nakoulmakim/orderservice/service/OrderService.class
+com/nakoulmakim/orderservice/model/Order.class
+com/nakoulmakim/orderservice/model/OrderLineItems.class
+com/nakoulmakim/orderservice/dto/OrderRequest.class
+com/nakoulmakim/orderservice/controller/OrderController.class
+com/nakoulmakim/orderservice/repository/OrderRepository.class
+com/nakoulmakim/orderservice/OrderServiceApplication.class
+com/nakoulmakim/orderservice/dto/OrderLineItemsDto.class
